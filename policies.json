@@ -45,6 +45,11 @@
         "access": "https://help.cengage.com/mindtap/mt-instructor/common/accessibility.html",
         "privacy": "https://www.cengagegroup.com/privacy/notice/"
     },
+        {
+        "name": "NC Live",
+        "access": "https://www.nclive.org/about/terms-of-use",
+        "privacy": "https://www.nclive.org/about/privacy-statement"
+    },
     {
         "name": "Padlet",
         "access": "https://legal.padlet.com/accessibility",
