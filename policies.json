@@ -25,6 +25,11 @@
         "access": "https://www.google.com/accessibility/customers-partners/",
         "privacy": "https://safety.google/intl/en_us/"
     },
+        {
+        "name": "Khan Academy",
+        "access": "https://support.khanacademy.org/hc/en-us/articles/360015623271-How-does-Khan-Academy-make-our-content-more-accessible-",
+        "privacy": "https://www.khanacademy.org/about/privacy-policy"
+    },
     {
         "name": "KaHoot",
         "access": "https://trust.kahoot.com/inclusion-and-accessibility-policy/index.html",
@@ -49,6 +54,11 @@
         "name": "NC Live",
         "access": "https://www.nclive.org/about/terms-of-use",
         "privacy": "https://www.nclive.org/about/privacy-statement"
+    },
+        {
+        "name": "NROC EdReady",
+        "access": "https://support.edready.org/hc/en-us/articles/360004488534-What-accessibility-supports-does-EdReady-provide-",
+        "privacy": "https://content.nroc.org/license/license.html#:~:text=NROC%20respects%20your%20privacy.,or%20respond%20to%20a%20survey."
     },
     {
         "name": "Padlet",
