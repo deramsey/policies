@@ -60,6 +60,11 @@
         "access": "https://support.edready.org/hc/en-us/articles/360004488534-What-accessibility-supports-does-EdReady-provide-",
         "privacy": "https://content.nroc.org/license/license.html#:~:text=NROC%20respects%20your%20privacy.,or%20respond%20to%20a%20survey."
     },
+        {
+        "name": "OpenStax",
+        "access": "https://openstax.org/accessibility-statement",
+        "privacy": "https://openstax.org/privacy-policy"
+    },
     {
         "name": "Padlet",
         "access": "https://legal.padlet.com/accessibility",
