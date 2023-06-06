@@ -20,6 +20,11 @@
         "access": "https://esciencelabs.com/Accessibility",
         "privacy": "https://www.scienceinteractive.com/privacy-policy/"
     },
+        {
+        "name": "GCFLearnFree",
+        "access": "https://support.gcflearnfree.org/knowledgebase/articles/1921555-is-your-site-accessible",
+        "privacy": "https://edu.gcfglobal.org/en/info/privacy-notice/1/#"
+    },
     {
         "name": "Google Tools",
         "access": "https://www.google.com/accessibility/customers-partners/",
