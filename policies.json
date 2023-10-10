@@ -40,6 +40,11 @@
         "access": "https://trust.kahoot.com/inclusion-and-accessibility-policy/index.html",
         "privacy": "https://trust.kahoot.com/privacy-policy/"
     },
+        {
+        "name": "McGraw-Hill",
+        "access": "https://www.mheducation.com/about/accessibility.html",
+        "privacy": "https://www.mheducation.com/privacy.html?ot-policy=end-user"
+    },
     {
         "name": "Microsoft 365 (Office)",
         "access": "https://www.microsoft.com/en-us/accessibility",
