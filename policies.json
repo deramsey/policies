@@ -6,6 +6,11 @@
         "privacy": "https://www.blackboard.com/resources/blackboard-collaborate-student-privacy"
     },
     {
+        "name": "Blooket",
+        "access": "#",
+        "privacy": "https://www.blooket.com/privacy"
+    },
+    {
         "name": "Camtasia",
         "access": "https://www.techsmith.com/accessibility.html",
         "privacy": "https://www.techsmith.com/privacy-policy.html"
