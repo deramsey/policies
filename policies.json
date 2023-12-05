@@ -115,6 +115,11 @@
         "access": "https://web.respondus.com/accessibility-lockdown/",
         "privacy": "https://web.respondus.com/privacy-policy/"
     },
+        {
+        "name": "Skillable iLabs",
+        "access": "https://www.skillable.com/accessibility-statement/",
+        "privacy": "https://www.skillable.com/privacy/"
+    },
     {
         "name": "SnagIt",
         "access": "https://www.techsmith.com/accessibility.html",
