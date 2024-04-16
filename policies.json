@@ -20,20 +20,40 @@
         "access": "https://www.elsevier.com/about/accessibility",
         "privacy": "https://www.sciencedirect.com/topics/computer-science/privacy-policies"
     },
+        {
+        "name": "EMBL",
+        "access": "",
+        "privacy": "https://www.ebi.ac.uk/data-protection/privacy-notice/hgnc"
+    },
     {
         "name": "eScience Labs",
         "access": "https://esciencelabs.com/Accessibility",
         "privacy": "https://www.scienceinteractive.com/privacy-policy/"
     },
         {
+        "name": "Frontiers in Biochemistry",
+        "access": "",
+        "privacy": "https://www.sls.cuhk.edu.hk/index.php/privacy-policy-sls"
+    },
+        {
         "name": "GCFLearnFree",
         "access": "https://support.gcflearnfree.org/knowledgebase/articles/1921555-is-your-site-accessible",
         "privacy": "https://edu.gcfglobal.org/en/info/privacy-notice/1/#"
+    },
+        {
+        "name": "Genetics Center",
+        "access": "",
+        "privacy": "https://learn.genetics.utah.edu/policies/privacy/"
     },
     {
         "name": "Google Tools",
         "access": "https://www.google.com/accessibility/customers-partners/",
         "privacy": "https://safety.google/intl/en_us/"
+    },
+        {
+        "name": "HHMI Biointeractive ",
+        "access": "https://www.biointeractive.org/commitment-accessibility",
+        "privacy": "https://www.hhmi.org/privacy-policy"
     },
         {
         "name": "Khan Academy",
@@ -44,6 +64,16 @@
         "name": "KaHoot",
         "access": "https://trust.kahoot.com/inclusion-and-accessibility-policy/index.html",
         "privacy": "https://trust.kahoot.com/privacy-policy/"
+    },
+        {
+        "name": "Lab-Aids",
+        "access": "",
+        "privacy": "https://www.lab-aids.com/privacy-policy"
+    },
+        {
+        "name": "LabXChange",
+        "access": "https://accessibility.huit.harvard.edu/digital-accessibility-policy",
+        "privacy": "https://www.labxchange.org/privacy-notice"
     },
         {
         "name": "McGraw-Hill",
