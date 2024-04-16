@@ -76,6 +76,11 @@
         "privacy": "https://www.labxchange.org/privacy-notice"
     },
         {
+        "name": "LibreTexts",
+        "access": "https://commons.libretexts.org/accessibility",
+        "privacy": "https://libretexts.org/privacy-policy-3/"
+    },
+        {
         "name": "McGraw-Hill",
         "access": "https://www.mheducation.com/about/accessibility.html",
         "privacy": "https://www.mheducation.com/privacy.html?ot-policy=end-user"
