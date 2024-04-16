@@ -22,7 +22,7 @@
     },
         {
         "name": "EMBL",
-        "access": "",
+        "access": "https://deramsey.github.io/policies/unavailable.html",
         "privacy": "https://www.ebi.ac.uk/data-protection/privacy-notice/hgnc"
     },
     {
@@ -32,7 +32,7 @@
     },
         {
         "name": "Frontiers in Biochemistry",
-        "access": "",
+        "access": "https://deramsey.github.io/policies/unavailable.html",
         "privacy": "https://www.sls.cuhk.edu.hk/index.php/privacy-policy-sls"
     },
         {
@@ -42,7 +42,7 @@
     },
         {
         "name": "Genetics Center",
-        "access": "",
+        "access": "https://deramsey.github.io/policies/unavailable.html",
         "privacy": "https://learn.genetics.utah.edu/policies/privacy/"
     },
     {
@@ -67,7 +67,7 @@
     },
         {
         "name": "Lab-Aids",
-        "access": "",
+        "access": "https://deramsey.github.io/policies/unavailable.html",
         "privacy": "https://www.lab-aids.com/privacy-policy"
     },
         {
