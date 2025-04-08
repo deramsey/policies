@@ -51,6 +51,11 @@
         "privacy": "https://safety.google/intl/en_us/"
     },
         {
+        "name": "H5P",
+        "access": "https://help.h5p.com/hc/en-us/articles/7505444789405-Accessibility-statement-for-H5P-com",
+        "privacy": "https://h5p.org/privacy"
+    },
+        {
         "name": "HHMI Biointeractive ",
         "access": "https://www.biointeractive.org/commitment-accessibility",
         "privacy": "https://www.hhmi.org/privacy-policy"
