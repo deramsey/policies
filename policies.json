@@ -180,6 +180,11 @@
         "access": "https://support.testout.com/hc/en-us/articles/360050847654-WCAG-2-1-Compliance-and-VPAT",
         "privacy": "https://w3.testout.com/company/privacy"
     },
+        {
+            "name": "Typing.com",
+            "access": "https://www.typing.com/accessibility",
+            "privacy": "https://www.typing.com/privacypolicy"
+        },
      {
         "name": "VitalSource",
         "access": "https://support.vitalsource.com/hc/en-us/categories/200184597-Accessibility",
