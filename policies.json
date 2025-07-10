@@ -6,6 +6,11 @@
         "privacy": "https://www.blackboard.com/resources/blackboard-collaborate-student-privacy"
     },
     {
+        "name": "Adobe",
+        "access": "https://www.adobe.com/accessibility/compliance.html",
+        "privacy": "https://www.adobe.com/privacy/policy.html"
+    },
+    {
         "name": "Blooket",
         "access": "https://deramsey.github.io/policies/BlooketVPAT.pdf",
         "privacy": "https://www.blooket.com/privacy"
