@@ -10,6 +10,11 @@
         "access": "https://www.adobe.com/accessibility/compliance.html",
         "privacy": "https://www.adobe.com/privacy/policy.html"
     },
+        {
+        "name": "ATI",
+        "access": "https://www.atitesting.com/technical-requirements",
+        "privacy": "https://www.atitesting.com/privacy"
+    },
     {
         "name": "Blooket",
         "access": "https://deramsey.github.io/policies/BlooketVPAT.pdf",
@@ -19,6 +24,11 @@
         "name": "Camtasia",
         "access": "https://www.techsmith.com/accessibility.html",
         "privacy": "https://www.techsmith.com/privacy-policy.html"
+    },
+        {
+        "name": "DISA Healthcare (CastleBranch)",
+        "access": "https://deramsey.github.io/policies/unavailable.html",
+        "privacy": "https://disa.com/privacy-policy/"
     },
     {
         "name": "Elsevier (inc. ScienceDirect)",
@@ -34,6 +44,11 @@
         "name": "eScience Labs",
         "access": "https://esciencelabs.com/Accessibility",
         "privacy": "https://www.scienceinteractive.com/privacy-policy/"
+    },
+        {
+        "name": "ExamSoft/Examplify",
+        "access": "https://examsoft.com/about-examsoft/accessibility-statement/",
+        "privacy": "https://examsoft.com/privacy-policy/"
     },
         {
         "name": "Frontiers in Biochemistry",
@@ -59,6 +74,11 @@
         "name": "H5P",
         "access": "https://help.h5p.com/hc/en-us/articles/7505444789405-Accessibility-statement-for-H5P-com",
         "privacy": "https://h5p.org/privacy"
+    },
+         {
+        "name": "HealthStream",
+        "access": "https://deramsey.github.io/policies/unavailable.html",
+        "privacy": "https://www.myclinicalexchange.com/PrivacyPolicy.aspx"
     },
         {
         "name": "HHMI Biointeractive ",
