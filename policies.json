@@ -1,9 +1,9 @@
 {
     "platforms": [
     {
-        "name": "Blackboard",
-        "access": "https://www.anthology.com/trust-center/accessibility",
-        "privacy": "https://www.blackboard.com/resources/blackboard-collaborate-student-privacy"
+        "name": "Canvas",
+        "access": "https://trust.instructure.com/d/canvas-vpat/vjkWM6",
+        "privacy": "https://www.instructure.com/policies/product-privacy-policy"
     },
     {
         "name": "Adobe",
